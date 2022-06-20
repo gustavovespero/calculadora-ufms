@@ -1,6 +1,6 @@
-#from multiplica import multiplica
-#from soma import soma
-#from subtrai import subtrai
+from multiplica import multiplica
+from soma import soma
+from subtrai import subtrai
 from divide import divide
 
 def main():
