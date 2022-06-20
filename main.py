@@ -1,7 +1,7 @@
-# from multiplica import multiplica
-# from soma import soma
+from multiplica import multiplica
+from soma import soma
 from subtrai import subtrai
-# from divide import divide
+from divide import divide
 
 def main():
     val1 = input('Valor1: ')
